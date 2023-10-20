@@ -1,5 +1,5 @@
 {
-  "name": "status",
+  "name": "pencheck",
   "version": "1.0.0",
   "description": "Run accessibility scan (axe-core) and HTML validation across several URLs",
   "scripts": {
